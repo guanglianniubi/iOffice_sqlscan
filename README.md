@@ -12,9 +12,11 @@ python3 sql.py -f url.txt 批量检测
 扫描结束后会在当前目录生成存在漏洞url的vuln.txt
 
 poc：
+
 ![](./poc.jpg)
 
 exp：
+
 ![](./exp.jpg)
 
 ## 免责声明
